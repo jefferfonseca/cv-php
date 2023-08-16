@@ -1,0 +1,218 @@
+/*----------------------------------HEADER------------------------------------------------------*/
+body,
+html {
+  font-family: "Verb", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+}
+
+header {
+  position: relative;
+  height: 400px;
+  overflow: hidden;
+}
+
+#video-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+  z-index: -1;
+}
+
+#video-content {
+  position: relative;
+  height: 100%;
+  display: flex;
+}
+
+#video-overlay {
+  position: absolute;
+  top: 100px;
+  left: 10%;
+  transform: translate(-50%, -50%);
+  border-bottom-right-radius: 40%;
+  border: 20px ridge #00a85ae2;
+  width: 20%;
+  height: auto;
+  overflow: hidden;
+  margin-top: 5%
+}
+
+.perfil {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+h1 {
+  font-size: 40px;
+  color: #27353f;
+  line-height: 30px;
+  margin: 0 0 5px;
+}
+
+h2 {
+  font-size: 25px;
+  color: #63717b;
+  line-height: 23px;
+  margin: 0 0 5px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5em;
+  font-weight: 400px;
+  color: black;
+  margin-bottom: 0;
+}
+
+/*----------------------------------STYLE------------------------------------------------------*/
+.card-body {
+  border-radius: 0.25rem;
+  color: black;
+  text-align: center;
+  min-height: 150px;
+  padding: 25px;
+  border-top: 1px solid rgba(0, 0, 0, .125);
+  border-radius: 0.25rem;
+}
+.card-title{
+  font-weight: bold;
+}
+section {
+  background-color: rgba(82, 81, 81, 0.125);
+}
+
+/*----------------------------------PERFIL------------------------------------------------------*/
+.badge {
+  background-color: #00a859;
+  margin-top: 40px;
+}
+
+
+/*----------------------------------PORTAFOLIO------------------------------------------------------*/
+li {
+  text-align: left;
+  list-style: none;
+}
+
+img {
+  border-radius: 5px;
+}
+
+.material-icons {
+  color: #00a859;
+}
+.aligned-top {
+  height: 25px;
+  display: flex;
+  vertical-align: top;
+}
+
+/*----------------------------------SKILLS------------------------------------------------------*/
+.progress-bar {
+  background-color: #00a859;
+}
+
+.card-body {
+  border-top: 1px solid rgba(0, 0, 0, .125);
+  border-radius: 0.25rem;
+}
+
+li {
+  text-align: left;
+  list-style: none;
+}
+
+/*----------------------------------SKILLS------------------------------------------------------*/
+#btn-mas {
+  display: none;
+}
+
+.container-btn {
+  position: fixed;
+  bottom: 45px;
+  right: 10px;
+  z-index: 1030;
+}
+
+.redes a,
+.fa-angle-up {
+  display: block;
+  text-decoration: none;
+  background-color: #00a859;
+  color: #fff;
+  width: 45px;
+  height: 45px;
+  line-height: 45px;
+  text-align: center;
+  border-radius: 50%;
+  box-shadow: O 1 10 rgba(0, 0, 0, 4);
+  transition: all 400ms ease;
+}
+
+.redes a:hover {
+  background: #fff;
+  color: #00a859;
+}
+
+.redes a {
+  margin: -15px;
+  opacity: 0;
+  visibility: hidden;
+}
+
+#btn-mas:checked~.redes a {
+  margin: 10px;
+  opacity: 1;
+  visibility: visible;
+}
+
+#btn-mas:checked~.btn-mas .fa-angle-up {
+  color: #00a859;
+  background-color: #fff;
+  border: 2px solid #00a859;
+  transform: rotate(180deg);
+  font-size: 25px;
+}
+
+/*----------------------------------SKILLS------------------------------------------------------*/
+h4 {
+  color: #00a859;
+  padding-top: 20px;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+  background-color: #00a859;
+  color: #fff;
+}
+
+.container.estudio {
+  border-bottom: 3px solid #00a859;
+}
+
+.nav-link.nav-link {
+  color: #00a859;
+}
+
+.nav-link.active {
+  background-color: #00a859;
+  color: white;
+}
+
+h5,
+h6 {
+  margin: 0;
+}
+
+@media only screen and (max-width: 600px){
+  #video-overlay {
+    top: 90px;
+    left: 10%;
+    width: 35%;
+  }
+
+  header {
+    height: 200px;
+  }
+}
