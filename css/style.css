@@ -83,6 +83,7 @@ section {
 }
 
 /*----------------------------------PERFIL------------------------------------------------------*/
+
 .badge {
   background-color: #00a859;
   margin-top: 40px;
@@ -106,6 +107,10 @@ img {
   height: 25px;
   display: flex;
   vertical-align: top;
+  padding: 10px 0 30px 0;
+
+}
+.padding-skills{
 }
 
 /*----------------------------------SKILLS------------------------------------------------------*/
@@ -116,11 +121,6 @@ img {
 .card-body {
   border-top: 1px solid rgba(0, 0, 0, .125);
   border-radius: 0.25rem;
-}
-
-li {
-  text-align: left;
-  list-style: none;
 }
 
 /*----------------------------------SKILLS------------------------------------------------------*/
