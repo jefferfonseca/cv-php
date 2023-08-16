@@ -52,7 +52,7 @@ h1 {
 
 h2 {
   font-size: 25px;
-  color: #63717b;
+  color: #00a85ae2;
   line-height: 23px;
   margin: 0 0 5px;
 }
@@ -75,9 +75,11 @@ p {
   border-top: 1px solid rgba(0, 0, 0, .125);
   border-radius: 0.25rem;
 }
-.card-title{
+
+.card-title {
   font-weight: bold;
 }
+
 section {
   background-color: rgba(82, 81, 81, 0.125);
 }
@@ -103,14 +105,12 @@ img {
 .material-icons {
   color: #00a859;
 }
+
 .aligned-top {
   height: 25px;
   display: flex;
   vertical-align: top;
   padding: 10px 0 30px 0;
-
-}
-.padding-skills{
 }
 
 /*----------------------------------SKILLS------------------------------------------------------*/
@@ -205,7 +205,21 @@ h6 {
   margin: 0;
 }
 
-@media only screen and (max-width: 600px){
+.btn-cv {
+  padding: 7px;
+  background-color: #00a859;
+  color: #fff;
+  font-size: 15px;
+  border: 0;
+}
+
+.aligned-center{
+  /*Centrar  en vertical*/
+  display: flex;
+  align-items: center;
+}
+
+@media only screen and (max-width: 600px) {
   #video-overlay {
     top: 90px;
     left: 10%;

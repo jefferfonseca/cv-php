@@ -1,4 +1,4 @@
-<h2 class="container text-center">Acerca de mí</h2>
+<h2 class="container text-center"><b>Acerca de m</b>í</h2>
 <div class="container">
     <div class="d-flex align-items-start">
         <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">

@@ -15,13 +15,17 @@
     </div>
 </div>
 
-<div class="container text-center">
-    <a href="https://drive.google.com/file/d/16IgACfQysCJv1loKzyDhxvsEvzmcIfnG/view?usp=share_link" class="btn">Resumen
-        de CV</a>
-    <button type="button"
-        onclick="window.open('https://drive.google.com/file/d/16IgACfQysCJv1loKzyDhxvsEvzmcIfnG/view?usp=share_link');">
-        Descargar
-    </button>
+<div class="container text-center ">
+    <h4 style="text-align: center;"> Resumen de CV:
+        &nbsp;
+        <button type="button" class="btn-cv"
+            onclick="window.open('https://drive.google.com/file/d/16IgACfQysCJv1loKzyDhxvsEvzmcIfnG/view?usp=share_link');">
+            <div class="aligned-center">
+                <span class="material-icons text-white">cloud_download</span>&nbsp;&nbsp;&nbsp; <b>Descargar</b>
+            </div>
+        </button>
+    </h4>
+    <br>
 </div>
 <br>
 <script>

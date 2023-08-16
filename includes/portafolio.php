@@ -7,7 +7,7 @@
                         style="height: 90px; width: 200px" alt="..." />
                 </div>
                 <div class="card-body">
-                    <h5 class="card-title">Proyectos Web:</h5>
+                    <h5 class="card-title">Proyectos Web</h5>
                     <ul style="padding-inline-start: 0px">
                         <li>
                             <div class="aligned-top">
@@ -34,7 +34,7 @@
                             <div class="aligned-top">
                                 <span class="material-icons">done</span>
                                 <a class="dropdown-item" href="https://www.vasanpisosyconcretos.com/" target="_blank">
-                                    <p>VASAN Pisos y concretos.</p>
+                                    <p>“VASAN Pisos y Concretos</p>
                                 </a>
                                 .</p>
                             </div>
@@ -63,7 +63,7 @@
                         style="height: 90px; width: 200px" alt="..." />
                 </div>
                 <div class="card-body">
-                    <h5 class="card-title">Hard & Soft Ware:</h5>
+                    <h5 class="card-title">Hardware y Software</h5>
                     <ul style="padding-inline-start: 0px">
                         <li>
                             <div class="aligned-top">
@@ -74,7 +74,7 @@
                             </div>
                             <ul>
                                 <li><b>></b> PC´s </li>
-                                <li><b>></b> Portatiles </li>
+                                <li><b>></b> Portátiles </li>
                                 <li><b>></b> Impresoras </li>
                                 <li><b>></b> Redes </li>
                             </ul>
@@ -89,7 +89,7 @@
                             </div>
                             <ul>
                                 <li><b>></b> Redes LAN </li>
-                                <li><b>></b> Sistemas en red </li>
+                                <li><b>></b> Sistemas en Red</li>
                                 <li><b>></b> Software </li>
                             </ul>
                         </li>
@@ -101,7 +101,7 @@
                             </div>
                             <ul>
                                 <li><b>></b> Repuestos </li>
-                                <li><b>></b> PC´s y portatiles </li>
+                                <li><b>></b> PC’s y Portátiles </li>
                                 <li><b>></b> Software </li>
                             </ul>
                         </li>
@@ -121,24 +121,24 @@
                         style="height: 90px; width: 200px" alt="..." />
                 </div>
                 <div class="card-body">
-                    <h5 class="card-title">Sistemas de seguridad:</h5>
+                    <h5 class="card-title">Sistemas de Seguridad</h5>
                     <ul style="padding-inline-start: 0px">
                         <li>
                             <div class="aligned-top">
                                 <span class="material-icons">done</span>
-                                <p> Circuito cerrado de TV.</p>
+                                <p> Circuito Cerrado de TV.</p>
                             </div>
                         </li>
                         <li>
                             <div class="aligned-top">
                                 <span class="material-icons">done</span>
-                                <p> Alarma automonitoreada.</p>
+                                <p> Alarma Auto Monitoreada.</p>
                             </div>
                         </li>
                         <li>
                             <div class="aligned-top">
                                 <span class="material-icons">done</span>
-                                <p>Cerca eléctrica.</p>
+                                <p>Cerca Eléctrica.</p>
                             </div>
                         </li>
                     </ul>
@@ -156,18 +156,18 @@
                         style="height: 90px; width: 200px" alt="..." />
                 </div>
                 <div class="card-body">
-                    <h5 class="card-title">Diseño de:</h5>
+                    <h5 class="card-title">Diseño de</h5>
                     <ul style="padding-inline-start: 0px">
                         <li>
                             <div class="aligned-top">
                                 <span class="material-icons">done</span>
-                                <p>Software a la medida.</p>
+                                <p>Software a la Medida.</p>
                             </div>
                         </li>
                         <li>
                             <div class="aligned-top">
                                 <span class="material-icons">done</span>
-                                <p>Bases de datos.</p>
+                                <p>Bases de Datos.</p>
                             </div>
                         </li>
                         <li>
@@ -185,7 +185,7 @@
                         <li>
                             <div class="aligned-top">
                                 <span class="material-icons">done</span>
-                                <p>Planos arquitectonicos.</p>
+                                <p>Planos Arquitectónicos.</p>
                             </div>
                         </li>
                         <li>
@@ -197,21 +197,20 @@
                         <li>
                             <div class="aligned-top">
                                 <span class="material-icons">done</span>
-                                <p>Asesoria y capacitaciones.</p>
+                                <p>Asesoría y Capacitaciones.</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="aligned-top">
+                                <span class="material-icons">done</span>
+                                <p>Nubes Privadas, Públicas e Híbridas .</p>
                             </div>
                         </li>
                        <br>
                         <li>
                             <div class="aligned-top">
                                 <span class="material-icons">done</span>
-                                <p>Nubes privadas y publicas.</p>
-                            </div>
-                        </li>
-                       <br>
-                        <li>
-                            <div class="aligned-top">
-                                <span class="material-icons">done</span>
-                                <p>Sistemas de digitalización.</p>
+                                <p>Sistemas de Digitalización.</p>
                             </div>
                         </li>
                     </ul>
