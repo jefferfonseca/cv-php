@@ -34,7 +34,7 @@
                             <div class="aligned-top">
                                 <span class="material-icons">done</span>
                                 <a class="dropdown-item" href="https://www.vasanpisosyconcretos.com/" target="_blank">
-                                    <p>“VASAN Pisos y Concretos</p>
+                                    <p>VASAN Pisos y Concretos</p>
                                 </a>
                                 .</p>
                             </div>
@@ -69,40 +69,40 @@
                             <div class="aligned-top">
                                 <span class="material-icons">done</span>
                                 <p>
-                                    Mantenimiento de:
+                                    <b>Mantenimiento de:</b>
                                 </p>
                             </div>
                             <ul>
-                                <li><b>></b> PC´s </li>
-                                <li><b>></b> Portátiles </li>
-                                <li><b>></b> Impresoras </li>
-                                <li><b>></b> Redes </li>
+                                <li><b>></b> PC´s. </li>
+                                <li><b>></b> Portátiles. </li>
+                                <li><b>></b> Impresoras. </li>
+                                <li><b>></b> Redes. </li>
                             </ul>
                         </li>
-                        <br>
+                        
                         <li>
                             <div class="aligned-top">
                                 <span class="material-icons">done</span>
                                 <p>
-                                    Instalación de:
-                                .</p>
+                                    <b>Instalación de:</b>
+                                </p>
                             </div>
                             <ul>
-                                <li><b>></b> Redes LAN </li>
-                                <li><b>></b> Sistemas en Red</li>
-                                <li><b>></b> Software </li>
+                                <li><b>></b> Redes LAN. </li>
+                                <li><b>></b> Sistemas en Red.</li>
+                                <li><b>></b> Software. </li>
                             </ul>
                         </li>
-                        <br>
+                        
                         <li>
                             <div class="aligned-top">
                                 <span class="material-icons">done</span>
-                                <p> Venta de: </p>
+                                <p> <b>Venta de:</b> </p>
                             </div>
                             <ul>
-                                <li><b>></b> Repuestos </li>
-                                <li><b>></b> PC’s y Portátiles </li>
-                                <li><b>></b> Software </li>
+                                <li><b>></b> Repuestos. </li>
+                                <li><b>></b> PC’s y Portátiles. </li>
+                                <li><b>></b> Software. </li>
                             </ul>
                         </li>
                     </ul>
@@ -206,7 +206,7 @@
                                 <p>Nubes Privadas, Públicas e Híbridas .</p>
                             </div>
                         </li>
-                       <br>
+                       
                         <li>
                             <div class="aligned-top">
                                 <span class="material-icons">done</span>

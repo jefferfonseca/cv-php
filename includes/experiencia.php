@@ -146,7 +146,6 @@
                                     resultados de programas.
                                 </p>
                         </li>
-                        <br>
                         <li>
                             <div class="aligned-top">
                                 <span class="material-icons">done</span>
@@ -155,7 +154,6 @@
                                     la fundación, lo que puede aumentar la eficiencia y reducir errores.
                                 </p>
                         </li>
-                        <br>
                         <li>
                             <div class="aligned-top">
                                 <span class="material-icons">done</span>
@@ -181,7 +179,6 @@
                                     promover su trabajo y facilitar la comunicación con donantes y beneficiarios.
                                 </p>
                         </li>
-                        <br>
                         <li>
                             <div class="aligned-top">
                                 <span class="material-icons">done</span>
@@ -190,7 +187,6 @@
                                     comprender sus necesidades tecnológicas y proporcionar soluciones adecuadas.
                                 </p>
                         </li>
-                        <br>
                         <li>
                             <div class="aligned-top">
                                 <span class="material-icons">done</span>
@@ -221,7 +217,6 @@
                                     operativos y de los programas necesarios para su uso y aprovechamiento.
                                 </p>
                         </li>
-                        <br>
                         <li>
                             <div class="aligned-top">
                                 <span class="material-icons">done</span>
@@ -259,7 +254,6 @@
                                     Fundación
                                 </p>
                         </li>
-                        <br>
                         <li>
                             <div class="aligned-top">
                                 <span class="material-icons">done</span>
@@ -368,6 +362,7 @@
                                     Detección y resolución de incidencias o problemas de acuerdo a los protocolos
                                     establecidos. </p>
                         </li>
+
                         <li>
                             <div class="aligned-top">
                                 <span class="material-icons">done</span>
