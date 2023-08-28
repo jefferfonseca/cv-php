@@ -14,6 +14,8 @@ ejemplo, me siento atraído por el diseño, el desarrollo de software y la docen
 gustan las oportunidades que ofrecen el diseño y el desarrollo para crear cosas nuevas y
 solucionar problemas. Por otra parte, el área educativa me motiva a contribuir al mejoramiento
 de la educación en Colombia y trabajo todos los días para este fin.
+</p>
+<p class="py-3" style="text-align:justify;">
 Estoy abierto a trabajar en las áreas que mencioné anteriormente, ya sea de forma
 individual o en equipo. Tengo la habilidad de gestionar mi tiempo de forma adecuada, por lo que
 puedo realizar distintos procesos y cumplir con sus plazos establecidos si trabajo de manera
