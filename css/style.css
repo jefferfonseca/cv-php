@@ -176,6 +176,9 @@ img {
 
 /*----------------------------------SKILLS------------------------------------------------------*/
 h4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   color: #00a859;
   padding-top: 20px;
 }
@@ -204,18 +207,33 @@ h6 {
   margin: 0;
 }
 
-.btn-cv {
-  padding: 7px;
-  background-color: #00a859;
-  color: #fff;
-  font-size: 15px;
-  border: 0;
-}
-
 .aligned-center {
   /*Centrar  en vertical*/
   display: flex;
   align-items: center;
+}
+
+.aligned-center span {
+  text-decoration: none;
+  padding: 15px;
+  background-color: #038b4b;
+  color: #fff;
+  font-size: 25px;
+  border: 0;
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
+
+#descargar {
+  text-decoration: none;
+  padding: 7px;
+  margin-left: -2px;
+  background-color: #00a859;
+  color: #fff;
+  font-size: 15px;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  border: 2px solid #038b4b;
 }
 
 @media only screen and (max-width: 600px) {

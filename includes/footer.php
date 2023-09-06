@@ -18,12 +18,10 @@
 <div class="container text-center ">
     <h4 style="text-align: center;"> Resumen de CV:
         &nbsp;
-        <button type="button" class="btn-cv"
-            onclick="window.open('https://drive.google.com/file/d/16IgACfQysCJv1loKzyDhxvsEvzmcIfnG/view?usp=share_link');">
-            <div class="aligned-center">
-                <span class="material-icons text-white">cloud_download</span>&nbsp;&nbsp;&nbsp; <b>Descargar</b>
-            </div>
-        </button>
+        <div class="aligned-center">
+            <a href='assets/docs/CV - Ing. Jeferson Fonseca Soto.pdf' download='CV - Ing. Jeferson Fonseca Soto.pdf'><span class="material-icons ">cloud_download</span></a>
+            <a href='assets/docs/CV - Ing. Jeferson Fonseca Soto.pdf' download='CV - Ing. Jeferson Fonseca Soto.pdf' id="descargar"><b>Descargar</b></a>
+        </div>
     </h4>
     <br>
 </div>
